@@ -6,6 +6,7 @@ canvas {
   display: block;
  
   p.ex1 {
+    margin: auto;
     max-width: 100%;
   }
   
