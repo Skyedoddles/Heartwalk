@@ -4,6 +4,9 @@ html, body {
 }
 canvas {
   display: block;
-  margin: auto;
+ 
+  p.ex1 {
+    max-width: 100%;
+  }
   
 }
