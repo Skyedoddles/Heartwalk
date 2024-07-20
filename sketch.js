@@ -10,7 +10,7 @@ function draw() {
   
  //console.log(random(0,255));
  background(0,0,0);
- heart(heartX,200,50);
+ heart(heartX,200,200);
 
  heartX= heartX+ xSpeed;
   if (heartX > width) {
