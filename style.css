@@ -1,13 +1,13 @@
 html, body {
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 canvas {
   display: block;
- 
-  p.ex1 {
-    margin: auto;
-    max-width: 100%;
-  }
+  width: 100%;
+  height: 100;
+
+  
   
 }
