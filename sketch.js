@@ -3,7 +3,7 @@ var heartX = 250;
 var xSpeed = 5;    
  
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(windowWidth,windowHeight);
  fill(random(0,255),random(0,255),random(0,255));
 }
 function draw() {
