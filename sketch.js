@@ -1,6 +1,6 @@
 //variables//
 var heartX = 250;
-var xSpeed = 4;    
+var xSpeed = 2;    
  
 function setup() {
   createCanvas(windowWidth,windowHeight);
